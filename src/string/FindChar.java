@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /**
  * @author cheoljundev
- * @extends
- * @implements
  * @since 2026. 2. 11.
  */
 public class FindChar {
